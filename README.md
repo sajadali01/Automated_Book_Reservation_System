@@ -11,7 +11,7 @@ The Library Management System is a comprehensive software solution designed to e
 
 ## UML (USE-Case) Diagram
 
-![USE_CASE_DIAGRAM](./assests/USE_CASE_DIAGRAM.JPG) 
+![USE_CASE_DIAGRAM](./assests/USE_CASE_DIAGRAM.jpg) 
 
 ## Features
 
